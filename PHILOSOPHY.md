@@ -1,0 +1,3 @@
+We tend to profess what we are good at. Confidence drips from the wax of truth; stories bleed from the side of lies. Most compliance programs are built on the latter, a false confidence that people follow rules because these rules exist. Leadership testifies on the strength of its hierarchy forgetting that the cracks within its foundation are there because lies feel better. To ask people the right questions is my task, my function, with the purest desire of revealing to them that the meaning of their lives is neither truth nor fiction, but hope.
+
+These words are the clear lens through which I do this work.
