@@ -37,4 +37,4 @@ All case studies in this portfolio are based entirely on publicly available info
 
 *Contact: Isaac-of-ATCo*  
 *Certifications: Certified in Cybersecurity (CC) — ISC2 | CompTIA Security+*
-*Open to GRC roles globally - remote or relocation*
+*Open to GRC roles globally - remote or in-office*
