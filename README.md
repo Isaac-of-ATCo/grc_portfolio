@@ -16,8 +16,8 @@ This portfolio documents real incidents through the lens of governance, risk, an
 |---|---|---|
 | [Case Studies](#case-studies) | Active | Structured GRC analysis of real healthcare security incidents |
 | Policy Templates | Coming | Annotated policy templates aligned to HIPAA, NIST CSF, and HICP |
-| Gap Analyses | Coming | Framework-based gap analysis walkthroughs for common healthcare environments |
-| Lab Notes | Coming | Technical observations on cloud security, detection engineering, and control design |
+| Gap Analyses | Coming | Framework-based gap analysis walkthroughs for healthcare environments |
+| Lab Notes | Coming | Observations on cloud security, detection engineering, and control design |
 
 ---
 
