@@ -25,7 +25,7 @@ This portfolio documents real incidents through the lens of governance, risk, an
 
 | Title | Date | Scale | Frameworks |
 |---|---|---|---|
-| [Episource LLC Ransomware Attack (2025)](case-studies/episource-2025/) | June 2025 | 5,418,866 individuals | NIST CSF 2.0, HIPAA, MITRE ATT&CK, HICP |
+| [Episource LLC Ransomware Attack (2025)](case-studies/episource-grc-analysis.md) | June 2025 | 5,418,866 individuals | NIST CSF 2.0, HIPAA, MITRE ATT&CK, HICP |
 
 ---
 
