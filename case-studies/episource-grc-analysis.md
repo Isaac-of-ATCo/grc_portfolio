@@ -1,7 +1,7 @@
 # Episource LLC Ransomware Attack (2025): A GRC Case Study
 
 **Analyst:** Isaac Kahiri 
-**Date:** June 2025  
+**Date:** May 2026  
 **Frameworks Applied:** NIST CSF 2.0 | HIPAA (45 CFR §164.400–414) | MITRE ATT&CK | HICP 2023  
 **Classification:** Portfolio Work — Based on Publicly Available Information  
 
